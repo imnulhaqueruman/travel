@@ -2,32 +2,32 @@ const activitiesData = [
     {
       id: 'activities-1',
       title: 'KAYAK',
-      image: require('../images/vector.png'),
+      image: require('../images/kayak-icon.png'),
     },
     {
-      id: 'activites-2',
+      id: 'activities-2',
       title: 'HIKE',
-      image: require('../images/vector (1).png'),
+      image: require('../images/mountain.png'),
     },
     {
-      id: 'activites-3',
+      id: 'activities-3',
       title: 'SPA',
-      image: require('../images/Vector (2).png'),
+      image: require('../images/spa (1).png'),
     },
     {
-      id: 'activites-6',
+      id: 'activities-4',
       title: 'BIKE',
-      image: require('../images/Vector (5).png'),
+      image: require('../images/bike.png'),
     },
     {
-      id: 'activites-5',
+      id: 'activities-5',
       title: 'TENNIS',
-      image: require("../images/Vector (3).png"),
+      image: require("../images/tennis (1).png"),
     },
     {
-      id: 'activites-4',
+      id: 'activities-6',
       title: 'WATER SKI',
-      image: require('../images/water-ski.png'),
+      image: require('../images/water-ski (1).png'),
     },
   ];
   
